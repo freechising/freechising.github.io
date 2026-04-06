@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://fedoseevsm.github.io
-Sitemap: https://fedoseevsm.github.io/sitemap.xml
+Host: https://freechising.github.io
+Sitemap: https://freechising.github.io/sitemap.xml
