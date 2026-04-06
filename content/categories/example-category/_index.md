@@ -1,5 +1,6 @@
 ---
 title: Example Category
+draft: true
 description: A description of this category
 image:
 
